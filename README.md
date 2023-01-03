@@ -1,11 +1,13 @@
 # Local Hardhat Games
 
-Let's work on our solidity skills while deploying against a local hardhat blockchain! Inside this repository you'll find 5 smart contracts labled `Game1` to `Game5`. The goal of each smart contract is to:
+Inside this repository you'll find 5 smart contracts labled `Game1` to `Game5`. The goal of each smart contract is to:
 
 1. Deploy it to our local hardhat network
 2. Send some transaction(s) to emit the Winner event!
 
-If you see the Winner event in the transaction receipt: congratulations, you're a winner! Let's talk about how to setup and run each game.
+If you see the Winner event in the transaction receipt: congratulations, you're a winner! 
+
+How to setup and run each game:
 
 ## 1. Install Depedencies
 
